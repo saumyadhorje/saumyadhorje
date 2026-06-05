@@ -1,10 +1,11 @@
 # saumyadhorje
 Hi , I'm Saumya Dhorje!
 
-Reach me at:
-- LinkedIn
-- Portfolio
-- Email
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saumya-dhorje-5a596332a)
+- 📸 [Instagram](https://www.instagram.com/saumyad_30)
+- 📧 [Email](mailto:saumya.dhorje24@vit.edu)
 
 ## 📃 Research & Publications
 
