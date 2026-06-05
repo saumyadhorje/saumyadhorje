@@ -23,7 +23,7 @@ Research Areas:
 -Emergency Vehicle Prioritization
 
 
-## 📚 VIT Course Work
+## 📚 Course Work
 
 ### Second Year
 
