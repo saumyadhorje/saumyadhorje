@@ -20,3 +20,13 @@ Research Areas:
 -Smart Cities
 -Traffic Signal Optimization
 -Emergency Vehicle Prioritization
+
+## 📚 VIT Course Work
+
+### Second Year
+
+- Data Structures and Algorithms
+- Object Oriented Programming
+- Computer Networks
+- Mathematical Foundations of Artificial Intelligence
+
