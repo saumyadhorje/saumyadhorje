@@ -21,9 +21,6 @@ Research Areas:
 -Traffic Signal Optimization
 -Emergency Vehicle Prioritization
 
-## 📚 VIT Course Work
-
-### Second Year
 
 ## 📚 VIT Course Work
 
