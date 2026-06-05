@@ -25,8 +25,13 @@ Research Areas:
 
 ### Second Year
 
-- Data Structures and Algorithms
-- Object Oriented Programming
-- Computer Networks
-- Mathematical Foundations of Artificial Intelligence
+## 📚 VIT Course Work
+
+### Second Year
+
+- [Data Structures and Algorithms (DSA)](https://github.com/saumyadhorje/VIT-coursework/tree/main/DSA)
+- [Object Oriented Programming (OOPS)](https://github.com/saumyadhorje/VIT-coursework/tree/main/OOPS)
+- [Computer Networks (CN)](https://github.com/saumyadhorje/VIT-coursework/tree/main/CN)
+- [Mathematical Foundations of Artificial Intelligence (MFAI)](https://github.com/saumyadhorje/VIT-coursework/tree/main/MFAI)
+- [Image Processing](https://github.com/saumyadhorje/VIT-coursework/tree/main/Image-Processing)
 
